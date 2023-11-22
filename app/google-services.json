@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225357375174",
+    "project_id": "note-bar-93d33",
+    "storage_bucket": "note-bar-93d33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225357375174:android:be3c4d56d5501370f019c7",
+        "android_client_info": {
+          "package_name": "com.example.notebar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvTO6KBwlMxPHkATTCP1dsIzUrayg_2Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
